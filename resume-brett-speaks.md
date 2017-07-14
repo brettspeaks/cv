@@ -49,10 +49,10 @@ Silpada Designs Inc.
 Lockheed Martin IS&GS
 : *Software Engineer*
   __2004-2009__
-  Nuclear Planning And Execution System (NPES), Omaha, NE
+  __Nuclear Planning And Execution System (NPES)__ - *Omaha, NE*
     Primary developer of Support Team Status status, Intel Management, and Global Message Processor.
   Passgear (Sensory Team), Denver, CO
-    Lead prototyper of the General Query Tool using MicroStrategy and Oracle BI Discoverer.
+    Developed General Query Tool using MicroStrategy and Oracle BI Discoverer.
     Lead prototyper of System Health and Status Tool using HP OpenView.
   Aerial Common Sensor (Aircraft Team), Denver, CO
     Development of Multi-Level Mission Equipment ICDS and Master Equipment list.
