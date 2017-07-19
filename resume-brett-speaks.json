@@ -14,101 +14,114 @@
       "countryCode": "US",
       "region": "Kansas"
     },
-    "profiles": [{
-      "network": "GitHUB",
-      "username": "brettspeaks",
-      "url": "github.com/brettspeaks"
-    }]
+    "profiles": [
+      {
+        "network": "GitHUB",
+        "username": "brettspeaks",
+        "url": "github.com/brettspeaks"
+      }
+    ]
   },
   "work": [
     {
-    "company": "D&S Global Solutions",
-    "position": "Software Operation Director",
-    "website": "https://dandsltd.com",
-    "startDate": "2014",
-    "endDate": "2017",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
+      "company": "D&S Global Solutions",
+      "position": "Software Operation Director",
+      "website": "https://dandsltd.com",
+      "startDate": "2014",
+      "endDate": "2017",
+      "summary": "Description...",
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
-    "company": "Silpada Designs Inc.",
-    "position": "Software Engineer",
-    "website": "https://silpada.com",
-    "startDate": "2009",
-    "endDate": "2014",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
+      "company": "Silpada Designs Inc.",
+      "position": "Software Engineer",
+      "website": "https://silpada.com",
+      "startDate": "2009",
+      "endDate": "2014",
+      "summary": "Description...",
+      "highlights": [
+        "Started the company"
+      ]
     },
     {
-    "company": "Lockheed Martin IS&GS",
-    "position": "Software Engineer I",
-    "website": "https://lockheedmartin.com",
-    "startDate": "2004",
-    "endDate": "2009",
-    "summary": "Description...",
-    "highlights": [
-      "Started the company"
-    ]
-    },
+      "company": "Lockheed Martin IS&GS",
+      "position": "Software Engineer I",
+      "website": "https://lockheedmartin.com",
+      "startDate": "2004",
+      "endDate": "2009",
+      "summary": "Description...",
+      "highlights": [
+        "Started the company"
+      ]
+    }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "website": "http://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description...",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Kansas State Univeristy",
-    "area": "Computer Science",
-    "studyType": "Bachelor",
-    "startDate": "1999",
-    "endDate": "2004",
-    "gpa": "3.4/4.0",
-    "courses": [ "Minor in Business"]
-  }],
-  "awards": [{
-    "title": "Team SRA Award",
-    "date": "2006-11-01",
-    "awarder": "Lockheed Martin",
-    "summary": "Passgear General Query Tool"
-  },
-  {
-    "title": "SPOT",
-    "date": "2006-09-01",
-    "awarder": "Lockheed Martin",
-    "summary": "Passgear General Query Tool"
-  },
-  {
-    "title": "SPOT",
-    "date": "2005-12-01",
-    "awarder": "Lockheed Martin",
-    "summary": "Passgear Health and Status Tool"
-  },
-  {
-    "title": "SPOT",
-    "date": "2004-12-01",
-    "awarder": "Lockheed Martin",
-    "summary": "HIRRT"
-  }
-],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "website": "http://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description...",
+      "highlights": [
+        "Awarded 'Volunteer of the Month'"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Kansas State Univeristy",
+      "area": "Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "1999",
+      "endDate": "2004",
+      "gpa": "3.4/4.0",
+      "courses": [
+        "Minor in Business"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Team SRA Award",
+      "date": "2006-11-01",
+      "awarder": "Lockheed Martin",
+      "summary": "Passgear General Query Tool"
+    },
+    {
+      "title": "SPOT",
+      "date": "2006-09-01",
+      "awarder": "Lockheed Martin",
+      "summary": "Passgear General Query Tool"
+    },
+    {
+      "title": "SPOT",
+      "date": "2005-12-01",
+      "awarder": "Lockheed Martin",
+      "summary": "Passgear Health and Status Tool"
+    },
+    {
+      "title": "SPOT",
+      "date": "2004-12-01",
+      "awarder": "Lockheed Martin",
+      "summary": "HIRRT"
+    }
+  ],
   "publications": [],
   "skills": [],
-  "languages": [{
-    "name": "English",
-    "level": "Native speaker"
-  }],
+  "languages": [
+    {
+      "name": "English",
+      "level": "Native speaker"
+    }
+  ],
   "interests": [],
-  "references": [{
-    "name": "",
-    "reference": "Available upon request."
-  }]
+  "references": [
+    {
+      "name": "",
+      "reference": "Available upon request."
+    }
+  ]
 }
