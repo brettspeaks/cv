@@ -25,38 +25,44 @@ B.S. Computer Science, Kansas State University, 2004
 
 ### Experience
 
-D&S Ltd.
-: *Software Operations Director*
-  __2014-2017__
-  Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.
-  Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.
-  Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.
-  Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.
-  Migrated entire company from ActiveDirectory to GSuite.
-  Managed migration of apps and databases from Texas and LA data centers to Google Cloud infrastructure with nightly deployments across 3 zones.
-  Managed migration of traditional app structure to Kubernetes with on-demand scaling.
+__D&S Ltd.__
+*Software Operations Director*
+__2014-2017__
+Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.
+Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.
+Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.
+Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.
+Migrated entire company from ActiveDirectory to GSuite.
+Managed migration of apps and databases from Texas and LA data centers to Google Cloud infrastructure with nightly deployments across 3 zones.
+Managed migration of traditional app structure to Kubernetes with on-demand scaling.
 
 Silpada Designs Inc.
-: *Software Engineer*
-  __2009-2014__
-  Principal on Silpada's e-comm site redesign. silpada.com/shop.
-  Lead developer of social network integrations.
-  Development and maintenance of product and inventory management systems, and order and benefit calculation redesign.
-  Developed mass mailing applications.
-  Implemented online representative signup flows.
-  Built and administrated JBoss application servers.
+*Software Engineer*
+__2009-2014__
+Principal on Silpada's e-comm site redesign. silpada.com/shop.
+Lead developer of social network integrations.
+Development and maintenance of product and inventory management systems, and order and benefit calculation redesign.
+Developed customizable mass emailing applications for repsresentatives.
+Implemented online representative signup flows.
+Built and administrated JBoss application servers.
 
 Lockheed Martin IS&GS
-: *Software Engineer*
-  __2004-2009__
-  __Nuclear Planning And Execution System (NPES)__ - *Omaha, NE*
-    Primary developer of Support Team Status status, Intel Management, and Global Message Processor.
-  Passgear (Sensory Team), Denver, CO
-    Developed General Query Tool using MicroStrategy and Oracle BI Discoverer.
-    Lead prototyper of System Health and Status Tool using HP OpenView.
-  Aerial Common Sensor (Aircraft Team), Denver, CO
-    Development of Multi-Level Mission Equipment ICDS and Master Equipment list.
-  Transformation Office, King of Prussia, PA
-    Primary developer for spirals 0 and 1 of the Horizontal Releasability and Request tool.
+*Software Engineer*
+__2004-2009__
+__Nuclear Planning And Execution System (NPES)__ - *Omaha, NE*
+Primary developer of Support Team Status status, Intel Management, and Global Message Processor.
+Passgear (Sensory Team), Denver, CO
+Developed General Query Tool using MicroStrategy and Oracle BI Discoverer.
+Lead prototyper of System Health and Status Tool using HP OpenView.
+Aerial Common Sensor (Aircraft Team), Denver, CO
+Development of Multi-Level Mission Equipment ICDS and Master Equipment list.
+Transformation Office, King of Prussia, PA
+Primary developer for spirals 0 and 1 of the Horizontal Releasability and Request tool.
 
 ------
+
+### Skills
+
+__Languages:__ Python, Javascript, Node, Java, C#, C, SQL
+__Frameworks:__ Dojo, Django, React, VueJS, Spring, JEE, JQuery
+__Tools/Infrastructure:__ Google Cloud, AWS, GSuite,  Kubernetes, Docker, JBoss, Nginx, Plivo, Twillio, MacOS, Linux
