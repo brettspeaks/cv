@@ -18,14 +18,14 @@ Full-time software engineer.
 ### Education
 
 B.S. Computer Science, Kansas State University, 2004
-: *Minor in Business*
-  3.4 GPA
+- Minor in Business
+- 3.4 GPA
 
 ------
 
 ### Experience
 
-__D&S Ltd.__
+- **D&S Ltd.**
 *Software Operations Director*
 __2014-2017__
 Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.
@@ -36,7 +36,7 @@ Migrated entire company from ActiveDirectory to GSuite.
 Managed migration of apps and databases from Texas and LA data centers to Google Cloud infrastructure with nightly deployments across 3 zones.
 Managed migration of traditional app structure to Kubernetes with on-demand scaling.
 
-Silpada Designs Inc.
+- Silpada Designs Inc.
 *Software Engineer*
 __2009-2014__
 Principal on Silpada's e-comm site redesign. silpada.com/shop.
@@ -46,7 +46,7 @@ Developed customizable mass emailing applications for repsresentatives.
 Implemented online representative signup flows.
 Built and administrated JBoss application servers.
 
-Lockheed Martin IS&GS
+- Lockheed Martin IS&GS
 *Software Engineer*
 __2004-2009__
 __Nuclear Planning And Execution System (NPES)__ - *Omaha, NE*
@@ -65,4 +65,4 @@ Primary developer for spirals 0 and 1 of the Horizontal Releasability and Reques
 
 __Languages:__ Python, Javascript, Node, Java, C#, C, SQL
 __Frameworks:__ Dojo, Django, React, VueJS, Spring, JEE, JQuery
-__Tools/Infrastructure:__ Google Cloud, AWS, GSuite,  Kubernetes, Docker, JBoss, Nginx, Plivo, Twillio, MacOS, Linux
+__Tools/Infrastructure:__ Google Cloud, AWS, GSuite,  Kubernetes, Docker, JBoss, Nginx, Plivo, Twillio, MacOS, Linux, git
