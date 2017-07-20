@@ -4,124 +4,172 @@
     "label": "Full-Stack Software Engineer",
     "picture": "",
     "email": "brett.speaks@gmail.com",
-    "phone": "402-212-3756",
+    "phone": "(402) 212-3756",
     "website": "",
-    "summary": "TODO",
+    "summary": "Brett is a full-stack software engineer with 12+ years experience. He enjoys tinkering with the latest technologies and the challenge of new very hard problems. In his last job he dove in and re-wrote software that is responsible for over $3M/yr in revenue. The company's largest client. ",
     "location": {
       "address": "6027 W 76th Ter",
-      "postalCode": "KS 66208",
+      "postalCode": "66208",
       "city": "Prairie Village",
       "countryCode": "US",
       "region": "Kansas"
     },
     "profiles": [
       {
-        "network": "GitHUB",
+        "network": "GitHub",
         "username": "brettspeaks",
-        "url": "github.com/brettspeaks"
+        "url": "https://github.com/brettspeaks"
       }
     ]
   },
   "work": [
     {
       "company": "D&S Global Solutions",
-      "position": "Software Operation Director",
+      "position": "Software Operations Manager",
       "website": "https://dandsltd.com",
-      "startDate": "2014",
-      "endDate": "2017",
-      "summary": "Description...",
+      "startDate": "2014-03",
+      "endDate": "2017-06",
+      "summary": "D&S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment.",
       "highlights": [
-        "Started the company"
+        "Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.",
+        "Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.",
+        "Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.",
+        "Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.",
+        "Migrated entire company from ActiveDirectory to GSuite.",
+        "Managed migration of apps and databases from Texas and LA data centers to Google Cloud infrastructure with nightly deployments across 3 zones.",
+        "Managed migration of traditional app structure to Kubernetes with on-demand scaling."
       ]
     },
     {
       "company": "Silpada Designs Inc.",
       "position": "Software Engineer",
       "website": "https://silpada.com",
-      "startDate": "2009",
-      "endDate": "2014",
-      "summary": "Description...",
+      "startDate": "2009-09",
+      "endDate": "2014-03",
+      "summary": "Silpada was a home party jewelry sales company started by two women in their basement in Lenex, KS and grown to 45,000 representatives in the US, Canada and UK. ",
       "highlights": [
-        "Started the company"
+        "Principal on Silpada's e-comm site redesign. silpada.com/shop. Lead developer of social network integrations.",
+        "Development and maintenance of product and inventory management systems, and order and benefit calculation redesign.",
+        "Developed customizable mass emailing applications for repsresentatives.",
+        "Implemented online representative signup flows. Built and administrated JBoss application servers."
       ]
     },
     {
       "company": "Lockheed Martin IS&GS",
       "position": "Software Engineer I",
       "website": "https://lockheedmartin.com",
-      "startDate": "2004",
-      "endDate": "2009",
-      "summary": "Description...",
+      "startDate": "2004-05",
+      "endDate": "2009-09",
+      "summary": "Lockheed Martin is one of the largest defense contractor in the US. While employed here I was able to contribute to many of their projects in many different locations. ",
       "highlights": [
-        "Started the company"
+        "Primary developer of Support Team Status status, Intel Management, and Global Message Processor - Nuclear Planning and Execution System (NPES), Omaha, NE",
+        "Developed General Query Tool using MicroStrategy and Oracle BI Discoverer. Lead prototyper of System Health and Status Tool using HP OpenView. - PASSGEAR - Denver, CO",
+        "Development of Multi-Level Mission Equipment ICDS and Master Equipment list. - Arerial Common Sensor (ACS) - Littleton, CO",
+        "Primary developer for spirals 0 and 1 of the Horizontal Releasability and Request tool. - HIRRT - King of Prussia, PA"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "Organization",
-      "position": "Volunteer",
-      "website": "http://organization.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Description...",
-      "highlights": [
-        "Awarded 'Volunteer of the Month'"
-      ]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "Kansas State Univeristy",
+      "institution": "Kansas State University",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "1999",
-      "endDate": "2004",
-      "gpa": "3.4/4.0",
+      "startDate": "1999-09",
+      "endDate": "2004-05",
+      "gpa": "3.4",
       "courses": [
-        "Minor in Business"
+        "Minor in business"
       ]
     }
   ],
   "awards": [
     {
       "title": "Team SRA Award",
-      "date": "2006-11-01",
+      "date": "2006-07",
       "awarder": "Lockheed Martin",
-      "summary": "Passgear General Query Tool"
+      "summary": "PASSGEAR General Query"
     },
     {
-      "title": "SPOT",
-      "date": "2006-09-01",
+      "title": "SPOT Award",
+      "date": "2006-11",
       "awarder": "Lockheed Martin",
-      "summary": "Passgear General Query Tool"
+      "summary": "PASSGEAR General Query"
     },
     {
-      "title": "SPOT",
-      "date": "2005-12-01",
+      "title": "SPOT Award",
+      "date": "2005-12",
       "awarder": "Lockheed Martin",
-      "summary": "Passgear Health and Status Tool"
+      "summary": "PASSGEAR Health and Status"
     },
     {
-      "title": "SPOT",
-      "date": "2004-12-01",
+      "title": "Team SRA Award",
+      "date": "2004-12",
       "awarder": "Lockheed Martin",
       "summary": "HIRRT"
     }
   ],
   "publications": [],
-  "skills": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "level": "Master",
+      "keywords": [
+        "Python",
+        "Javascript",
+        "Node",
+        "Java",
+        "C#",
+        "C",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "level": "Master",
+      "keywords": [
+        "Dojo",
+        "Django",
+        "React",
+        "Vue",
+        "Angular",
+        "Spring",
+        "JEE",
+        "jQuery",
+        "Hibernate",
+        "Express",
+        "CherryPy"
+      ]
+    },
+    {
+      "name": "Tools/Infrastructure",
+      "level": "Master",
+      "keywords": [
+        "Google Cloud",
+        "AWS",
+        "GSuite",
+        "Kubernetes",
+        "Docker",
+        "JBoss",
+        "Nginx",
+        "Plivo",
+        "Twillio",
+        "Linux",
+        "git"
+      ]
+    }
+  ],
   "languages": [
     {
-      "name": "English",
-      "level": "Native speaker"
+      "language": "English",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [],
   "references": [
     {
-      "name": "",
-      "reference": "Available upon request."
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }
