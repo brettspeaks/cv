@@ -164,7 +164,12 @@
         "Plivo",
         "Twillio",
         "Linux",
-        "git"
+        "git",
+        "MySql",
+        "MSSql",
+        "Sybase",
+        "Redis",
+        "MongoDB"
       ]
     }
   ],
