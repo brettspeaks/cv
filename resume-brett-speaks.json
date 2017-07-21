@@ -6,10 +6,7 @@
     "email": "brett.speaks@gmail.com",
     "phone": "(402) 212-3756",
     "website": "",
-    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies
-            and the challenge of solving very hard problems in creative ways. In his last job he dove in and re-wrote software that is
-            handles over $60M/month in inventory. He enjoys working with dynamic languages better part of the last 5 years
-            working with python, perl, bash, and Javascript, but he also has spent 10+ years working with Java and C#.",
+    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job he dove in and re-wrote software that is handles over $60M/month in inventory. He enjoys working with dynamic languages better part of the last 5 years working with python, perl, bash, and Javascript, but he also has spent 10+ years working with strongly typed languages such as Java and C#.",
     "location": {
       "address": "6027 W 76th Ter",
       "postalCode": "KS 66208",
@@ -50,10 +47,7 @@
       "website": "https://silpada.com",
       "startDate": "2009-09",
       "endDate": "2014-03",
-      "summary": "Silpada was a home party jewelry sales company started by two women in their basement in Lenex, KS and
-                grown to 45,000 representatives in the US, Canada and UK. While here I was a senior engineer dealing mostly
-                with their custom customer service app built on the Netbeans platform and their middle tier business logic which
-                was responsible for persistant order processing, benefit calculations, etc.",
+      "summary": "Silpada was a home party jewelry sales company started by two women in their basement in Lenex, KS and grown to 45,000 representatives in the US, Canada and UK. While here I was a senior engineer dealing mostly with their custom customer service app built on the Netbeans platform and their middle tier business logic which was responsible for persistant order processing, benefit calculations, etc.",
       "highlights": [
         "Java, Javascript, JSF, jQuery, JEE, Spring software development.",
         "Principal on Silpada's e-comm site redesign. silpada.com/shop. Lead developer of social network integrations.",
@@ -69,8 +63,7 @@
       "website": "https://lockheedmartin.com",
       "startDate": "2004-05",
       "endDate": "2009-09",
-      "summary": "Lockheed Martin is one of the largest defense contractor in the US. While employed here, I was able
-                to contribute to many of their projects in many different locations.",
+      "summary": "Lockheed Martin is one of the largest defense contractor in the US. While employed here, I was able to contribute to many of their projects in many different locations.",
       "highlights": [
         "C++, C#, and Java software development.",
         "Primary developer of Support Team Status status, Intel Management, and Global Message Processors - Nuclear Planning and Execution System (NPES), Omaha, NE",
