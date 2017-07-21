@@ -34,7 +34,7 @@
       "endDate": "2017-06",
       "summary": "D&S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment.",
       "highlights": [
-        "Primarly python, Javascript, and perl software development."
+        "Primarly python, Javascript, and perl software development.",
         "Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.",
         "Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.",
         "Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.",
