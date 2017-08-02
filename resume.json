@@ -5,105 +5,172 @@
     "picture": "",
     "email": "brett.speaks@gmail.com",
     "phone": "(402) 212-3756",
-    "summary": "Richard hails from Tulsa. He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!) Before starting Pied Piper, he worked for Hooli as a part time software developer. While his work focuses on applied information theory, mostly optimizing lossless compression schema of both the length-limited and adaptive variants, his non-work interests range widely, everything from quantum computing to chaos theory. He could tell you about it, but THAT would NOT be a “length-limited” conversation!",
+    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job he dove in and re-wrote software that is handles over $60M/month in inventory. He enjoys working with dynamic languages better part of the last 5 years working with python, perl, bash, and Javascript, but he also has spent 10+ years working with strongly typed languages such as Java and C#.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "6027 W 76th Ter",
+      "postalCode": "KS 66208",
+      "city": "Prairie Village",
       "countryCode": "US",
-      "region": "California"
+      "region": "Kansas"
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "neutralthoughts",
-        "url": ""
-      },
-      {
-        "network": "SoundCloud",
-        "username": "dandymusicnl",
-        "url": "https://soundcloud.com/dandymusicnl"
+        "network": "GitHub",
+        "username": "brettspeaks",
+        "url": "https://github.com/brettspeaks"
       }
     ]
   },
   "work": [
-    {
-      "company": "Pied Piper",
-      "position": "CEO/President",
-      "website": "http://piedpiper.com",
-      "startDate": "2013-12-01",
-      "endDate": "2014-12-01",
-      "summary": "Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has consistently fielded high Weisman Scores™ that are not merely competitive, but approach the theoretical limit of lossless compression.",
-      "highlights": [
-        "Build an algorithm for artist to detect if their music was violating copy right infringement laws",
-        "Successfully won Techcrunch Disrupt",
-        "Optimized an algorithm that holds the current world record for Weisman Scores"
-      ]
-    }
+      {
+        "company": "D&S Global Solutions",
+        "position": "Software Operations Manager",
+        "website": "https://dandsltd.com",
+        "startDate": "2014-03",
+        "endDate": "2017-06",
+        "summary": "D&S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment.",
+        "highlights": [
+          "Primarly python, Javascript, and perl software development.",
+          "Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.",
+          "Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.",
+          "Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.",
+          "Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.",
+          "Migrated entire company from ActiveDirectory to GSuite.",
+          "Managed migration of apps and databases from Texas and LA data centers to Google Cloud infrastructure with nightly deployments across 3 zones.",
+          "Managed migration of traditional app structure to Kubernetes with on-demand scaling."
+        ]
+      },
+      {
+        "company": "Silpada Designs Inc.",
+        "position": "Software Engineer",
+        "website": "https://silpada.com",
+        "startDate": "2009-09",
+        "endDate": "2014-03",
+        "summary": "Silpada was a home party jewelry sales company started by two women in their basement in Lenex, KS and grown to 45,000 representatives in the US, Canada and UK. While here I was a senior engineer dealing mostly with their custom customer service app built on the Netbeans platform and their middle tier business logic which was responsible for persistant order processing, benefit calculations, etc.",
+        "highlights": [
+          "Java, Javascript, JSF, jQuery, JEE, Spring software development.",
+          "Principal on Silpada's e-comm site redesign. silpada.com/shop. Lead developer of social network integrations.",
+          "Development and maintenance of product and inventory management systems, and order and benefit calculation redesign.",
+          "Developed customizable mass emailing applications for repsresentatives.",
+          "Implemented online representative signup flows.",
+          "Built and administrated JBoss application servers."
+        ]
+      },
+      {
+        "company": "Lockheed Martin IS&GS",
+        "position": "Software Engineer I",
+        "website": "https://lockheedmartin.com",
+        "startDate": "2004-05",
+        "endDate": "2009-09",
+        "summary": "Lockheed Martin is one of the largest defense contractor in the US. While employed here, I was able to contribute to many of their projects in many different locations.",
+        "highlights": [
+          "C++, C#, and Java software development.",
+          "Primary developer of Support Team Status status, Intel Management, and Global Message Processors - Nuclear Planning and Execution System (NPES), Omaha, NE",
+          "Developed General Query Tool using MicroStrategy and Oracle BI Discoverer. Lead prototyper of System Health and Status Tool using HP OpenView. - PASSGEAR - Denver, CO",
+          "Development of Multi-Level Mission Equipment ICDS and Master Equipment list. - Arerial Common Sensor (ACS) - Littleton, CO",
+          "Primary developer for spirals 0 and 1 of the Horizontal Releasability and Request tool. - HIRRT - King of Prussia, PA"
+        ]
+      }
   ],
-  "volunteer": [
-    {
-      "organization": "CoderDojo",
-      "position": "Teacher",
-      "website": "http://coderdojo.com/",
-      "startDate": "2012-01-01",
-      "endDate": "2013-01-01",
-      "summary": "Global movement of free coding clubs for young people.",
-      "highlights": [
-        "Awarded 'Teacher of the Month'"
-      ]
-    }
-  ],
+  "volunteer": [],
   "education": [
-    {
-      "institution": "University of Oklahoma",
-      "area": "Information Technology",
-      "studyType": "Bachelor",
-      "startDate": "2011-06-01",
-      "endDate": "2014-01-01",
-      "gpa": "4.0",
-      "courses": [
-        "DB1101 - Basic SQL",
-        "CS2011 - Java Introduction"
-      ]
-    }
+      {
+        "institution": "Kansas State University",
+        "area": "Computer Science",
+        "studyType": "Bachelor",
+        "startDate": "1999-09",
+        "endDate": "2004-05",
+        "gpa": "3.4",
+        "courses": [
+          "Minor in business"
+        ]
+      }
   ],
   "awards": [
-    {
-      "title": "Digital Compression Pioneer Award",
-      "date": "2014-11-01",
-      "awarder": "Techcrunch",
-      "summary": "There is no spoon."
-    }
+      {
+        "title": "Team SRA Award",
+        "date": "2006-07",
+        "awarder": "Lockheed Martin",
+        "summary": "PASSGEAR General Query"
+      },
+      {
+        "title": "SPOT Award",
+        "date": "2006-11",
+        "awarder": "Lockheed Martin",
+        "summary": "PASSGEAR General Query"
+      },
+      {
+        "title": "SPOT Award",
+        "date": "2005-12",
+        "awarder": "Lockheed Martin",
+        "summary": "PASSGEAR Health and Status"
+      },
+      {
+        "title": "Team SRA Award",
+        "date": "2004-12",
+        "awarder": "Lockheed Martin",
+        "summary": "HIRRT"
+      }
   ],
-  "publications": [
-    {
-      "name": "Video compression for 3d media",
-      "publisher": "Hooli",
-      "releaseDate": "2014-10-01",
-      "website": "http://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
-      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
-    }
-  ],
+  "publications": [],
   "skills": [
-    {
-      "name": "Web Development",
-      "level": "Master",
-      "keywords": [
-        "HTML",
-        "CSS",
-        "Javascript"
-      ]
-    },
-    {
-      "name": "Compression",
-      "level": "Master",
-      "keywords": [
-        "Mpeg",
-        "MP4",
-        "GIF"
-      ]
-    }
+      {
+        "name": "Languages",
+        "level": "Master",
+        "keywords": [
+          "Python",
+          "Javascript",
+          "Node",
+          "Java",
+          "perl",
+          "bash",
+          "C#",
+          "C",
+          "SQL"
+        ]
+      },
+      {
+        "name": "Frameworks",
+        "level": "Master",
+        "keywords": [
+          "Dojo",
+          "Django",
+          "React",
+          "Vue",
+          "Angular",
+          "Spring",
+          "JEE",
+          "jQuery",
+          "Hibernate",
+          "Express",
+          "CherryPy"
+        ]
+      },
+      {
+        "name": "Tools/Infrastructure",
+        "level": "Master",
+        "keywords": [
+          "Google Cloud",
+          "AWS",
+          "GSuite",
+          "Kubernetes",
+          "Docker",
+          "SaltStack",
+          "BigQuery"
+          "JBoss",
+          "Nginx",
+          "Plivo",
+          "Twillio",
+          "Linux",
+          "git",
+          "MySql",
+          "MSSql",
+          "Postgres",
+          "Sybase",
+          "Redis",
+          "MongoDB"
+        ]
+      }
   ],
   "languages": [
     {
@@ -111,19 +178,11 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [
-    {
-      "name": "Wildlife",
-      "keywords": [
-        "Ferrets",
-        "Unicorns"
-      ]
-    }
-  ],
+  "interests": [],
   "references": [
     {
-      "name": "Erlich Bachman",
-      "reference": "It is my pleasure to recommend Richard, his performance working as a consultant for Main St. Company proved that he will be a valuable addition to any company."
+      "name": "Available upon request",
+      "reference": ""
     }
   ]
 }

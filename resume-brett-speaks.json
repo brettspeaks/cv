@@ -156,6 +156,8 @@
         "GSuite",
         "Kubernetes",
         "Docker",
+        "SaltStack",
+        "BigQuery"
         "JBoss",
         "Nginx",
         "Plivo",
@@ -164,6 +166,7 @@
         "git",
         "MySql",
         "MSSql",
+        "Postgres",
         "Sybase",
         "Redis",
         "MongoDB"
