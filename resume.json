@@ -5,7 +5,7 @@
     "picture": "",
     "email": "brett.speaks@gmail.com",
     "phone": "(402) 212-3756",
-    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job, there several major company projects that were about to be cancelled, and he dove in and re-wrote software that is handles over $60M/month in collections inventory. He has working with dynamic languages better part of the last 5 years working such as python, perl, bash, and Javascript, but he also spent the 10+ years prior working with strongly typed languages such as Java and C#.",
+    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job, there several major company projects that were about to be cancelled, and he dove in and re-wrote software that is handles over $60M/month in collections inventory. He has working with dynamic languages better part of the last 5 years working such as python, perl, bash, and Javascript, but he also spent the 10+ years prior working with strongly typed languages such as Java, C#, and C++.",
     "location": {
       "address": "6027 W 76th Ter",
       "postalCode": "KS 66208",
@@ -24,15 +24,15 @@
   "work": [
       {
         "company": "D&S Global Solutions",
-        "position": "Software Operations Manager",
+        "position": "Software DevOps Engineer",
         "website": "https://dandsltd.com",
         "startDate": "2014-03",
         "endDate": "2017-06",
-        "summary": "D&S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment.",
+        "summary": "D&S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment. While here, he spent a majority of his time developing and maintaining D&S's cusom b2b credit reporting software as well as taking on a more customer service role interacting with clients or their technical couterparts directly to derrive collection strategys and software requirements surrounding them. He managed some of D&S's largest clients including Dell (Global Float, Global Terms, Tech Direct, DSP, CID, ARB, and DSG), Coke, Barns & Noble College, and ESAB NA.",
         "highlights": [
           "Primarly python, Javascript, and perl software development.",
           "Developed and managed infrastructure and app orchestration using SaltStack.",
-          "Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.",
+          "Managed software needs and day to day operations for D&S's large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.",
           "Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.",
           "Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.",
           "Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.",
