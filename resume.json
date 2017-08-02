@@ -5,7 +5,7 @@
     "picture": "",
     "email": "brett.speaks@gmail.com",
     "phone": "(402) 212-3756",
-    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job he dove in and re-wrote software that is handles over $60M/month in inventory. He enjoys working with dynamic languages better part of the last 5 years working with python, perl, bash, and Javascript, but he also has spent 10+ years working with strongly typed languages such as Java and C#.",
+    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job, there several major company projects that were about to be cancelled, and he dove in and re-wrote software that is handles over $60M/month in collections inventory. He has working with dynamic languages better part of the last 5 years working such as python, perl, bash, and Javascript, but he also spent the 10+ years prior working with strongly typed languages such as Java and C#.",
     "location": {
       "address": "6027 W 76th Ter",
       "postalCode": "KS 66208",
@@ -31,22 +31,23 @@
         "summary": "D&S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment.",
         "highlights": [
           "Primarly python, Javascript, and perl software development.",
+          "Developed and managed infrastructure and app orchestration using SaltStack.",
           "Managed software needs and day to day operations for our large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.",
           "Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.",
           "Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.",
           "Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.",
           "Migrated entire company from ActiveDirectory to GSuite.",
-          "Managed migration of apps and databases from Texas and LA data centers to Google Cloud infrastructure with nightly deployments across 3 zones.",
+          "Managed migration of apps and databases from Texas and Lousiana data centers to Google Cloud infrastructure with nightly deployments across 3 zones.",
           "Managed migration of traditional app structure to Kubernetes with on-demand scaling."
         ]
       },
       {
         "company": "Silpada Designs Inc.",
-        "position": "Software Engineer",
+        "position": "Senior Software Engineer",
         "website": "https://silpada.com",
         "startDate": "2009-09",
         "endDate": "2014-03",
-        "summary": "Silpada was a home party jewelry sales company started by two women in their basement in Lenex, KS and grown to 45,000 representatives in the US, Canada and UK. While here I was a senior engineer dealing mostly with their custom customer service app built on the Netbeans platform and their middle tier business logic which was responsible for persistant order processing, benefit calculations, etc.",
+        "summary": "Silpada was a home party jewelry sales company started by two women in their basement in Lenex, KS and grown to 45,000 representatives in the US, Canada and UK. While here he was a senior engineer dealing mostly with their homegrown customer service app built on the Netbeans platform and their middle tier business logic which was responsible for persistant order processing, benefit calculations, etc.",
         "highlights": [
           "Java, Javascript, JSF, jQuery, JEE, Spring software development.",
           "Principal on Silpada's e-comm site redesign. silpada.com/shop. Lead developer of social network integrations.",
@@ -178,11 +179,5 @@
       "fluency": "Native speaker"
     }
   ],
-  "interests": [],
-  "references": [
-    {
-      "name": "Available upon request",
-      "reference": ""
-    }
-  ]
+  "interests": []
 }
