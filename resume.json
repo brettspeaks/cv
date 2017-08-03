@@ -13,13 +13,7 @@
       "countryCode": "US",
       "region": "Kansas"
     },
-    "profiles": [
-      {
-        "network": "GitHub",
-        "username": "brettspeaks",
-        "url": "https://github.com/brettspeaks"
-      }
-    ]
+    "profiles": []
   },
   "work": [
       {
@@ -40,7 +34,8 @@
           "Managed migration of apps and databases from Texas and Lousiana data centers to Google Cloud infrastructure with nightly deployments across 3 zones.",
           "Managed migration of traditional app structure to Kubernetes with on-demand scaling.",
           "Mentored and directed Romanian team leads.",
-          "Led movement to TDD/BDD development practices."
+          "Led movement to TDD/BDD development practices.",
+          "Modeled and developed daily Dell Float Analytics using BigQuery and Looker"
         ]
       },
       {
@@ -177,7 +172,8 @@
           "Postgres",
           "Sybase",
           "Redis",
-          "MongoDB"
+          "MongoDB",
+          "Looker"
         ]
       }
   ],
