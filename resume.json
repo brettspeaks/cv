@@ -38,7 +38,9 @@
           "Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.",
           "Migrated entire company from ActiveDirectory to GSuite.",
           "Managed migration of apps and databases from Texas and Lousiana data centers to Google Cloud infrastructure with nightly deployments across 3 zones.",
-          "Managed migration of traditional app structure to Kubernetes with on-demand scaling."
+          "Managed migration of traditional app structure to Kubernetes with on-demand scaling.",
+          "Mentored and directed Romanian team leads.",
+          "Led movement to TDD/BDD development practices."
         ]
       },
       {
@@ -63,7 +65,7 @@
         "website": "https://lockheedmartin.com",
         "startDate": "2004-05",
         "endDate": "2009-09",
-        "summary": "Lockheed Martin is one of the largest defense contractor in the US. While employed here, I was able to contribute to many of their projects in many different locations.",
+        "summary": "Lockheed Martin is one of the largest defense contractor in the US. While employed here, he was able to contribute to many of their projects in many different locations.",
         "highlights": [
           "C++, C#, and Java software development.",
           "Primary developer of Support Team Status status, Intel Management, and Global Message Processors - Nuclear Planning and Execution System (NPES), Omaha, NE",
@@ -88,6 +90,12 @@
       }
   ],
   "awards": [
+    {
+      "title": "Excellence Award",
+      "date": "2009-06",
+      "awarder": "Silpada Designs Inc.",
+      "summary": "Inguinity in the redesign of shopping platform"
+    },
       {
         "title": "Team SRA Award",
         "date": "2006-07",
