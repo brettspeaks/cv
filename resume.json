@@ -32,7 +32,7 @@
           "Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.",
           "Migrated entire company from ActiveDirectory to GSuite.",
           "Managed migration of apps and databases from Texas and Lousiana data centers to Google Cloud infrastructure with nightly deployments across 3 zones.",
-          "Managed migration of traditional app structure to Kubernetes with on-demand scaling.",
+          "Managed migration of traditional app structure to Docker/Kubernetes with on-demand scaling.",
           "Mentored and directed Romanian team leads and junior team members.",
           "Led movement to TDD/BDD development practices.",
           "Modeled and developed daily Dell Float Analytics using BigQuery and Looker"
