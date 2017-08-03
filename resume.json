@@ -5,7 +5,7 @@
     "picture": "",
     "email": "brett.speaks@gmail.com",
     "phone": "(402) 212-3756",
-    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job, there several major company projects that were about to be cancelled, and he dove in and re-wrote software that is handles over $60M/month in collections inventory. He has working with dynamic languages better part of the last 5 years working such as python, perl, bash, and Javascript, but he also spent the 10+ years prior working with strongly typed languages such as Java, C#, and C++.",
+    "summary": "Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job, there were several major company projects that were about to be cancelled, and he dove in and re-wrote software that processes over $60M per month in collections inventory. For the last 5 years, he has actively worked with dynamic languages such as python, perl, bash, and Javascript.  The previous 7+ years, he worked mostly with strongly typed languages such as Java, C#, and C++.",
     "location": {
       "address": "6027 W 76th Ter",
       "postalCode": "KS 66208",
@@ -32,7 +32,7 @@
         "highlights": [
           "Worked remotely with teams in Austin, Lousiana, and Romania on primarly python, Javascript, and perl software development.",
           "Developed and managed infrastructure and app orchestration using SaltStack.",
-          "Managed software needs and day to day operations for D&S's large portfolio clients, ex. Dell, Coke, ESAB NA, and Barns & Noble College.",
+          "Managed software needs and day to day operations for D&S's large portfolio clients.",
           "Developed and maintained a b2b credit reporting and portfolio monitoring apps leveraging information provided by Experian and CreditSafe.",
           "Developed VOIP phone, conference, and collection IVR systems using Plivo with graceful fallback to Twillio.",
           "Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.",
