@@ -6,7 +6,184 @@
 <title>Brett Speaks</title>
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.2.0/css/bootstrap.min.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/octicons/2.0.2/octicons.min.css">
-<style type="text/css">@import url(https://fonts.googleapis.com/css?family=Lato:400,700);body{background:#fff;font-family:Lato,sans-serif;margin:0 0 80px;}a{color:#2ecc71;}a:focus,a:hover{color:#f1c40f;text-decoration:none;}p{line-height:1.5;margin:0;}p+p{margin-top:10px;}h1,h2,h3,h4{margin-top:0}section{margin-top:30px;}li{line-height:1.8;list-style:none;}li:before{content:"\f052";float:left;font:13px Octicons;margin-top:6px;margin-left:-20px;opacity:.1;position:absolute;}blockquote{border-left:5px solid #e7e9ec;font-size:14px;}em{color:#95a5a6;font-weight:normal;font-style:normal;}h4 span:first-child{color:#000;font-weight:bold;}.container{max-width:750px;padding:0 30px;}.col-sm-6{margin-bottom:10px;}.col-sm-12 h4{margin-top:12px;}.col-sm-12+.col-sm-12{margin-top:30px;}#header{background:#f4f6f6;padding:50px 0;margin-bottom:30px;}#header h2{color:#95a5a6;font-size:24px;}#content h3{color:#f1c40f;font-size:26px;margin-top:-4px;}#content aside{text-align:right;padding-right:30px;}#profiles .network{text-transform:capitalize;}#work .position,#volunteer .position{font-weight:bold;margin-bottom:8px;}#education .area{font-weight:bold;}#education .area:before{content:"\f0d7";font:16px Octicons;margin-right:6px;}#education .studyType{margin-left:25px;}#awards .summary,#publications .summary{margin-top:8px;}#publications .website a:before{content:attr(href);}@media (min-width: 480px) {.strike-through{border-top:1px solid #f4f6f6;height:20px;margin-top:12px;margin-bottom:-2px;position:relative;}.strike-through span,.strike-through a{background:#fff;position:absolute;}.strike-through span:first-child{padding-right:20px;margin-top:-12px;}.strike-through span+span{font-size:14px;margin-top:-10px;padding-left:20px;right:0;}}@media (max-width: 768px) {.col-sm-6:last-child{margin-bottom:0px;}#content aside{margin-bottom:20px;padding-right:0;text-align:left;}#publications .website a:before{content:"View publication";}}@media (max-width: 480px) {h1{font-size:26px;}.date{font-size:14px;margin-bottom:5px;}.strike-through span:first-child{margin-bottom:7px;}.strike-through span{display:block;}#header{margin-bottom:10px;padding:40px 0;}#actions{display:none;}}</style>
+<style type="text/css">
+	@import url(
+	https://fonts.googleapis.com/css?family=Lato:400,700
+);
+body {
+	background: #fff;
+	font-family: Lato, sans-serif;
+	margin: 0 0 80px;
+}
+a {
+	color: #2ecc71;
+}
+a:focus,
+a:hover {
+	color: #f1c40f;
+	text-decoration: none;
+}
+p {
+	line-height: 1.5;
+	margin: 0;
+}
+p + p {
+	margin-top: 10px;
+}
+h1,
+h2,
+h3,
+h4 {
+	margin-top: 0
+}
+section {
+	margin-top: 30px;
+}
+li {
+	line-height: 1.8;
+	list-style: none;
+}
+li:before {
+	content: "\f052";
+	float: left;
+	font: 13px Octicons;
+	margin-top: 6px;
+	margin-left: -20px;
+	opacity: .1;
+	position: absolute;
+}
+blockquote {
+	border-left: 5px solid #e7e9ec;
+	font-size: 14px;
+}
+em {
+	color: #95a5a6;
+	font-weight: normal;
+	font-style: normal;
+}
+h4 span:first-child {
+	color: #000;
+	font-weight: bold;
+}
+.container {
+	max-width: 750px;
+	padding: 0 30px;
+}
+.col-sm-6 {
+	margin-bottom: 10px;
+}
+.col-sm-12 h4 {
+	margin-top: 12px; 
+}
+.col-sm-12 + .col-sm-12 {
+	margin-top: 30px;
+}
+#header {
+	background: #f4f6f6;
+	padding: 50px 0;
+	margin-bottom: 30px;
+}
+#header h2 {
+	color: #95a5a6;
+	font-size: 24px;
+}
+#content h3 {
+	color: #f1c40f;
+	font-size: 26px;
+	margin-top: -4px;
+}
+#content aside {
+	text-align: right;
+	padding-right: 30px;
+}
+#profiles .network {
+	text-transform: capitalize;
+}
+#work .position,
+#volunteer .position {
+	font-weight: bold;
+	margin-bottom: 8px;
+}
+#education .area {
+	font-weight: bold;
+}
+#education .area:before {
+	content: "\f0d7";
+	font: 16px Octicons;
+	margin-right: 6px;
+}
+#education .studyType {
+	margin-left: 25px;
+}
+#awards .summary,
+#publications .summary {
+	margin-top: 8px;
+}
+#publications .website a:before {
+	content: attr(href);
+}
+
+@media (min-width: 480px) {
+	.strike-through {
+		border-top: 1px solid #f4f6f6;
+		height: 20px;
+		margin-top: 12px;
+		margin-bottom: -2px;
+		position: relative;
+	}
+	.strike-through span,
+	.strike-through a {
+		background: #fff;
+		position: absolute;
+	}
+	.strike-through span:first-child {
+		padding-right: 20px;
+		margin-top: -12px;
+	}
+	.strike-through span + span {
+		font-size: 14px;
+		margin-top: -10px;
+		padding-left: 20px;
+		right: 0;
+	}
+}
+@media (max-width: 768px) {
+	.col-sm-6:last-child {
+		margin-bottom: 0px;
+	}
+	#content aside {
+		margin-bottom: 20px;
+		padding-right: 0;
+		text-align: left;
+	}
+	#publications .website a:before {
+		content: "View publication";
+	}
+}
+@media (max-width: 480px) {
+	h1 {
+		font-size: 26px;
+	}
+	.date {
+		font-size: 14px;
+		margin-bottom: 5px;
+	}
+	.strike-through span:first-child {
+		margin-bottom: 7px;
+	}
+	.strike-through span {
+		display: block;
+	}	
+	#header {
+		margin-bottom: 10px;
+		padding: 40px 0;
+	}
+	#actions {
+		display: none;
+	}
+}
+
+	</style>
 </head>
 <body>
 <header id="header">
@@ -32,7 +209,7 @@ Full-stack Software Engineer
 <div class="row">
 <div class="col-sm-6">
 <strong>Email</strong>
-<div class="email"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="bfddcddacbcb91cccfdaded4ccffd8d2ded6d391dcd0d2">[email&#160;protected]</a><script data-cfhash='f9e31' type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></div>
+<div class="email"><a class="__cf_email__" href="/cdn-cgi/l/email-protection" data-cfemail="2240504756560c51524743495162454f434b4e0c414d4f">[email&#160;protected]</a><script data-cfhash="f9e31" type="text/javascript">/* <![CDATA[ */!function(t,e,r,n,c,a,p){try{t=document.currentScript||function(){for(t=document.getElementsByTagName('script'),e=t.length;e--;)if(t[e].getAttribute('data-cfhash'))return t[e]}();if(t&&(c=t.previousSibling)){p=t.parentNode;if(a=c.getAttribute('data-cfemail')){for(e='',r='0x'+a.substr(0,2)|0,n=2;a.length-n;n+=2)e+='%'+('0'+('0x'+a.substr(n,2)^r).toString(16)).slice(-2);p.replaceChild(document.createTextNode(decodeURIComponent(e)),c)}p.removeChild(t)}}catch(u){}}()/* ]]> */</script></div>
 </div>
 <div class="col-sm-6">
 <strong>Phone</strong>
@@ -46,7 +223,7 @@ Full-stack Software Engineer
 <h3>About</h3>
 </aside>
 <div class="col-sm-9">
-<p>**Brett is a full-stack software engineer with 13+ years experience.** He enjoys tinkering with the latest technologies and the challenge of solving very hard problems in creative ways. In his last job, there were several major company projects that were about to be cancelled, and he dove in and re-wrote software that processes over $60M per month in collections inventory. For the last 5 years, he has actively worked with dynamic languages such as Python, Perl, Bash, and JavaScript. The previous 7+ years, he worked mostly with strongly typed languages such as Java, C#, and C++.</p>
+<p>Brett is a full-stack software engineer with 13+ years experience. He enjoys tinkering with the latest technologies, the challenge of solving very hard problems in creative ways, and delivering quality code in dynamic, fast paced environments. In his last job, there were several major company projects that were about to be cancelled, and he dove in and re-wrote software that processes over $60M per month in collections inventory. For the last 5 years, he has actively worked with dynamic languages such as Python, Perl, Bash, and JavaScript. The previous 7+ years, he worked mostly with strongly typed languages such as Java, C#, and C++.</p>
 </div>
 </section>
 <section id="work" class="row">
@@ -66,10 +243,10 @@ Full-stack Software Engineer
 <a href="https://dandsltd.com">https://dandsltd.com</a>
 </div>
 <div class="position">
-Software DevOps Engineer
+Principal Software/DevOps Engineer
 </div>
 <div class="summary">
-<p>D&amp;S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment. While here, he spent a majority of his time developing and maintaining D&amp;S&#x27;s cusom b2b credit reporting software as well as taking on a more customer service role interacting with clients or their technical couterparts directly to derrive collection strategys and software requirements surrounding them. He managed some of D&amp;S&#x27;s largest clients including Dell (Global Float, Global Terms, Tech Direct, DSP, CID, ARB, and DSG), Coke, Barns &amp; Noble College, and ESAB NA.</p>
+<p>D&amp;S specializes in b2b asset recovery and management offering a technological focus not normally found in this business segment. While here, he spent a majority of his time developing and maintaining D&amp;S&#x27;s cusom b2b credit reporting app as well as taking on a more customer service role interacting with clients or their technical couterparts directly to derrive collection strategys and/or software requirements surrounding them. He managed some of D&amp;S&#x27;s largest clients including Dell (Global Float, Global Terms, Tech Direct, DSP, CID, ARB, and DSG), Coke, Barns &amp; Noble College, and ESAB NA.</p>
 </div>
 <h4>Highlights</h4>
 <ul class="highlights">
@@ -81,10 +258,10 @@ Software DevOps Engineer
 <li class="bullet">Developed and managed large voice and text blasting campaigns using Aculab Cloud and LiveVox.</li>
 <li class="bullet">Migrated entire company from ActiveDirectory to GSuite.</li>
 <li class="bullet">Managed migration of apps and databases from Texas and Lousiana data centers to Google Cloud infrastructure with nightly deployments across 3 zones.</li>
-<li class="bullet">Managed migration of traditional app structure to Kubernetes with on-demand scaling.</li>
+<li class="bullet">Managed migration of traditional app structure to Docker/Kubernetes with on-demand scaling.</li>
 <li class="bullet">Mentored and directed Romanian team leads and junior team members.</li>
 <li class="bullet">Led movement to TDD/BDD development practices.</li>
-<li class="bullet">Modeled and developed daily Dell Float Analytics using BigQuery and Looker</li>
+<li class="bullet">Modeled and developed daily Dell Float Analytics using BigQuery and Looker.</li>
 </ul>
 </div>
 <div class="col-sm-12">
