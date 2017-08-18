@@ -1,0 +1,160 @@
+
+Brett Speaks
+Full-stack Software Engineer
+
+--------------------------------------------------------------------------------
+
+Email: brett.speaks@gmail.com
+Phone: 402-212-3756
+
+--------------------------------------------------------------------------------
+
+ABOUT
+
+Brett is a full-stack software engineer with 13+ years experience. He enjoys 
+tinkering with the latest technologies, the challenge of solving very hard 
+problems in creative ways, and delivering quality code in dynamic, fast paced 
+environments. In his last job, there were several major company projects that 
+were about to be cancelled, and he dove in and re-wrote software that processes 
+over $60M per month in collections inventory. For the last 5 years, he has 
+actively worked with dynamic languages such as Python, Perl, Bash, and JavaScript. 
+The previous 7+ years, he worked mostly with strongly typed languages such as 
+Java, C#, and C++.
+
+--------------------------------------------------------------------------------
+
+WORK EXPERIENCE
+
+D&S GLOBAL SOLUTIONS
+Principal Software/DevOps Engineer 2014 - 2017
+
+D&S specializes in b2b asset recovery and management offering a technological
+focus not normally found in this business segment. While here, he spent a
+majority of his time developing and maintaining D&S's cusom b2b credit reporting
+app as well as taking on a more customer service role interacting with clients
+or their technical couterparts directly to derrive collection strategys and/or
+software requirements surrounding them. He managed some of D&S's largest clients
+including Dell (Global Float, Global Terms, Tech Direct, DSP, CID, ARB, and
+DSG), Coke, Barns & Noble College, and ESAB NA.
+
+ * Worked remotely with teams in Austin, Lousiana, and Romania on primarly
+   python, Javascript, and perl software development.
+ * Developed and managed infrastructure and app orchestration using SaltStack.
+ * Managed software needs and day to day operations for D&S's large portfolio
+   clients.
+ * Developed and maintained a b2b credit reporting and portfolio monitoring apps
+   leveraging information provided by Experian and CreditSafe.
+ * Developed VOIP phone, conference, and collection IVR systems using Plivo with
+   graceful fallback to Twillio.
+ * Developed and managed large voice and text blasting campaigns using Aculab
+   Cloud and LiveVox.
+ * Migrated entire company from ActiveDirectory to GSuite.
+ * Managed migration of apps and databases from Texas and Lousiana data centers
+   to Google Cloud infrastructure with nightly deployments across 3 zones.
+ * Managed migration of traditional app structure to Docker/Kubernetes with
+   on-demand scaling.
+ * Mentored and directed Romanian team leads and junior team members.
+ * Led movement to TDD/BDD development practices.
+ * Modeled and developed daily Dell Float Analytics using BigQuery and Looker.
+
+--------------------------------------------------------------------------------
+
+SILPADA DESIGNS INC.
+Senior Software Engineer 2009 - 2014
+
+Silpada was a home party jewelry sales company started by two women in their
+basement in Lenex, KS and grown to 45,000 representatives in the US, Canada and
+UK. While here he was a senior engineer dealing mostly with their homegrown
+customer service app built on the Netbeans platform and their middle tier
+business logic which was responsible for persistant order processing, benefit
+calculations, etc.
+
+ * Java, Javascript, JSF, jQuery, JEE, Spring software development.
+ * Principal on Silpada's e-comm site redesign. silpada.com/shop. Lead developer
+   of social network integrations.
+ * Development and maintenance of product and inventory management systems, and
+   order and benefit calculation redesign.
+ * Developed customizable mass emailing applications for repsresentatives.
+ * Implemented online representative signup flows.
+ * Built and administrated JBoss application servers.
+
+--------------------------------------------------------------------------------
+
+LOCKHEED MARTIN IS&GS
+Software Engineer I 2004 - 2009
+
+Lockheed Martin is one of the largest defense contractor in the US. While
+employed here, he was able to contribute to many of their projects in many
+different locations.
+
+ * C++, C#, and Java software development.
+ * Primary developer of Support Team Status status, Intel Management, and Global
+   Message Processors - Nuclear Planning and Execution System (NPES), Omaha, NE
+ * Developed General Query Tool using MicroStrategy and Oracle BI Discoverer.
+   Lead prototyper of System Health and Status Tool using HP OpenView. -
+   PASSGEAR - Denver, CO
+ * Development of Multi-Level Mission Equipment ICDS and Master Equipment list.
+   - Arerial Common Sensor (ACS) - Littleton, CO
+ * Primary developer for spirals 0 and 1 of the Horizontal Releasability and
+   Request tool. - HIRRT - King of Prussia, PA
+
+--------------------------------------------------------------------------------
+
+EDUCATION
+KANSAS STATE UNIVERSITY
+COMPUTER SCIENCE, BACHELOR
+1999 - 2004
+
+--------------------------------------------------------------------------------
+
+SKILLS
+ * LANGUAGES
+    * Python
+    * Javascript
+    * Node
+    * Java
+    * perl
+    * bash
+    * C#
+    * C
+    * SQL
+    * Go
+   
+   
+
+ * FRAMEWORKS
+    * Dojo
+    * Django
+    * React
+    * VueJS
+    * Angular
+    * Spring
+    * JEE
+    * jQuery
+    * Hibernate
+    * Express
+    * CherryPy
+   
+   
+
+ * TOOLS/INFRASTRUCTURE
+    * Google Cloud
+    * AWS
+    * GSuite
+    * Kubernetes
+    * Docker
+    * SaltStack
+    * BigQuery
+    * JBoss
+    * Nginx
+    * Plivo
+    * Twillio
+    * Linux
+    * git
+    * MySql
+    * MSSql
+    * Postgres
+    * Sybase
+    * Redis
+    * MongoDB
+    * Looker
